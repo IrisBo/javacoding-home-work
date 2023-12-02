@@ -32,4 +32,6 @@ answer=num4+2,console.log(answer)
 
 //  console.log("answer", answer)
 
+// why didnt it let me print the final answer after the if condition?
+
 
