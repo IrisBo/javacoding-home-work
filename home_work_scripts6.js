@@ -1,10 +1,17 @@
-console.log(1111)
-console.log("hello world")
 
-const num=5;
-debugger
-if(num==5){
-    debugger
-   console.log("yeeeyyy")
+console.log("enter num until negative and then show the sum of all numbers")
 
-}else{console.log("buzzzz")}
+let num= +prompt("enter a number")
+
+ let sum=0
+
+
+while (num>0){sum+=num, num = +prompt("enter a number")
+   
+  } 
+   {console.log(sum)}
+
+
+
+
+
